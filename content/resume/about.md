@@ -1,0 +1,5 @@
+I am a dedicated and ambitious Software Engineer with a strong passion for collaboratively building innovative and impactful software solutions. With a solid foundation in software engineering, I have gained hands-on experience in developing applications using technologies like **Python, C++, JavaScript, PHP, C#, and AWS**.
+
+I am also actively involved in the open-source community, making meaningful contributions to various projects, where I continuously enhance my technical skills and collaborate with developers worldwide. My contributions to open-source projects have helped me develop a deeper understanding of problem-solving, version control, and teamwork. Additionally, I have honed my algorithmic thinking by solving multiple coding challenges on platforms like [Leetcode](https://leetcode.com/u/chsalman199/).
+
+I am always seeking to collaborate with like-minded professionals and contribute to a forward-thinking organization where I can continue to grow, tackle complex challenges, and make a meaningful impact through technology.
