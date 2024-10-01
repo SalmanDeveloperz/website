@@ -11,7 +11,6 @@ A sleek, fast, and fully customizable portfolio website designed for Muhammad Sa
 4. [Folder Structure](#folder-structure)
 5. [Future Improvements](#future-improvements)
 6. [Contributing](#contributing)
-7. [License](#license)
 8. [Contact](#contact)
 
 ## About The Project
@@ -40,7 +39,7 @@ To set up the portfolio locally, follow these steps:
 ### Installation
 1. Clone the repo:
     ```bash
-    git clone https://github.com/chmsalman199/MonoSlate.git
+    git clone https://github.com/salmandeveloperz/website.git
     ```
 2. Install dependencies:
     ```bash
@@ -122,16 +121,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 Contact
 Name: Muhammad Salman
-LinkedIn: Muhammad Salman
+LinkedIn: [Muhammad Salman](https://www.linkedin.com/in/msalman199/)
 Email: chmsalman199@gmail.com
 Don't forget to give the project a star! Thanks for visiting my portfolio.
-
-vbnet
-Copy code
-
-You can copy this directly into your `README.md` file for your portfolio project! Let me know if you'd like any further customizations.
-
-
-
-
-
+#Thanks for visiting
