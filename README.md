@@ -29,7 +29,7 @@ This project is inspired by [Brittany Chiang's portfolio](https://brittanychiang
 - **Styled Components**
 
 ## Getting Started
-To set up the portfolio locally, follow these steps:
+To set up the portfolio locally, follow all these steps:-
 
 ### Prerequisites
 - Install Node.js
