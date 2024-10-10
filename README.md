@@ -9,6 +9,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<!-- Badges -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -22,9 +23,9 @@
   <a href="https://github.com/SalmanDeveloperz">
     <img src="images/logo.png" alt="Logo" width="200">
   </a>
-
+  <h3 align="center">MonoSlate Portfolio 🎨</h3>
   <p align="center">
-    A sleek, fast, and fully customizable portfolio for everyone
+    A modern, minimalist portfolio template built with Gatsby
     <br />
     <a href="https://biswajit-k.tech/"><strong>View Live »</strong></a>
     <br />
@@ -37,7 +38,7 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS; redirects to the section -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -55,14 +56,23 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#building-for-production">Building For Production</a></li>
-        <li><a href="#folder-structure">Folder Structure</a></li>
       </ul>
     </li>
-    <li><a href="#future-improvements">Future Improvements</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li>
+      <a href="#usage">Usage</a>
+    </li>
+    <li>
+      <a href="#contributing">Contributing</a>
+    </li>
+    <li>
+      <a href="#license">License</a>
+    </li>
+    <li>
+      <a href="#contact">Contact</a>
+    </li>
+    <li>
+      <a href="#acknowledgments">Acknowledgments</a>
+    </li>
   </ol>
 </details>
 
@@ -78,6 +88,7 @@ The key features are:
 
 - **Sleek Design**: Modern, minimalist and consistent design
 - **Organized Section**: Offers essential sections that suits everyone which are easy and intuitive to nagivate
+- 🎨 **Stunning Design** - Clean, modern black & white aesthetic
 - **Customizable Content**: Effortlessly update your content and sections with zero coding work.
 - **Free Hosting**: Quickly and easily deploy your portfolio website for free on [Netlify](https://www.netlify.com/) or [Github Pages](https://pages.github.com/).
 
@@ -102,25 +113,25 @@ Make sure that you have [Node.js](https://nodejs.org/en) installed as it would h
 
 ### Installation
 
-1. Clone the repo
+1. **Clone the repo**
 
    ```sh
    git clone https://github.com/biswajit-k/MonoSlate.git
    ```
 
-2. Install the Gatsby CLI
+2. **Install the Gatsby CLI**
 
    ```sh
    npm install -g gatsby-cli
    ```
 
-3. Install dependencies
+3. **Install dependencies**
 
    ```sh
    yarn
    ```
 
-4. Start the development server
+4. **Start the development server**
 
    ```sh
    npm start
@@ -240,7 +251,7 @@ See the [contribution section](#contributing) on how yo propose improvements.
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## 🤝Contributing
 
 Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -256,7 +267,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <!-- LICENSE -->
 
-## License
+## 🪪License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -264,7 +275,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
-## Contact
+## 🫙Contact
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chsalman199/)
 
@@ -281,6 +292,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+<!--shield information-->
 [contributors-shield]: https://img.shields.io/github/contributors/biswajit-k/MonoSlate.svg?style=for-the-badge
 [contributors-url]: https://github.com/SalmanDeveloperz/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/SalmanDeveloperz/website.svg?style=for-the-badge
