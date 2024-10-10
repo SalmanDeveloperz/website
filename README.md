@@ -21,20 +21,20 @@
 <div align="center">
   <a href="https://github.com/SalmanDeveloperz">
     <img src="images/logo.png" alt="Logo" width="200">
-  </a>
+</a>
 
-  <p align="center">
-    A sleek, fast, and fully customizable portfolio for everyone
-    <br />
-    <a href="https://biswajit-k.tech/"><strong>View Live »</strong></a>
-    <br />
-    <br />
-    <a href="#getting-started">Quickstart</a>
-    ·
-    <a href="https://github.com/SalmanDeveloperz/website/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SalmanDeveloperz/website/issues">Request Feature</a>
-  </p>
+<p align="center">
+  A sleek, fast, and fully customizable portfolio for everyone
+  <br />
+  <a href="https://biswajit-k.tech/"><strong>View Live »</strong></a>
+  <br />
+  <br />
+  <a href="#getting-started">Quickstart</a>
+  ·
+  <a href="https://github.com/SalmanDeveloperz/website/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/SalmanDeveloperz/website/issues">Request Feature</a>
+</p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -55,14 +55,23 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#building-for-production">Building For Production</a></li>
-        <li><a href="#folder-structure">Folder Structure</a></li>
       </ul>
     </li>
-    <li><a href="#future-improvements">Future Improvements</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li>
+      <a href="#usage">Usage</a>
+    </li>
+    <li>
+      <a href="#contributing">Contributing</a>
+    </li>
+    <li>
+      <a href="#license">License</a>
+    </li>
+    <li>
+      <a href="#contact">Contact</a>
+    </li>
+    <li>
+      <a href="#acknowledgments">Acknowledgments</a>
+    </li>
   </ol>
 </details>
 
